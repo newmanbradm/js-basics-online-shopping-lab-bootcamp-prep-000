@@ -57,6 +57,7 @@ function placeOrder(cardNumber) {
     return "sorry, we don't have a credit card on file for you."
   } else {
     var totalCost = total();
+    cart = [];
     
   }
 }
